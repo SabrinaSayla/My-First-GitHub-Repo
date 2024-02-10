@@ -1,4 +1,14 @@
 div{
     background-color: aqua;
     padding: 20px;
+    margin-bottom: 100px;
+}
+
+#GitHub{
+    background-color: blueviolet;
+    padding: 40px;
+}
+
+*{
+    margin: 50px;
 }
